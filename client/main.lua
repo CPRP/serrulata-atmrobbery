@@ -64,7 +64,7 @@ function DispatchCalled()
             radius = 0,
             sprite = 108,
             color = 1,
-            scale = 0.7,
+            scale = 1.5,
             length = 3,
         })
 
